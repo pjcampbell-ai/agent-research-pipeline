@@ -249,4 +249,3 @@ sentences. Cuts adjectives. Would rather be too brief than too long.
 
 **Estimated timeline:** 3-4 weekends for a working v1 (side project cadence, not primary).
 
-**Primary work remains:** Kyle Bartey client work at Campbell Consulting.
